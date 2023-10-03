@@ -4,10 +4,9 @@ Hi 👋 My name is ColossalEngineer
 Software Developer, Web Developer
 ---------------------------------
 
-* 🌍  I'm based in England
+* 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [Colossalengineer](http://colossalengineer.com)
 * ✉️  You can contact me at [colossal@colossalengineer.com](mailto:colossal@colossalengineer.com)
-* 🧠  I'm learning Node.js
 
 ### Skills
 
